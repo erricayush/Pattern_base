@@ -6,7 +6,7 @@ class TestTreeSet{
         T.add("data");
         T.add("flair");
         // T.add(32);  //it will generate class caste exception
-        // System.out.println((T));
+         System.out.println((T));
 
         // USING STRING--------
 
